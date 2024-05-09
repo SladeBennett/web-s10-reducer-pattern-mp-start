@@ -54,7 +54,7 @@ Interact with the prototype until you understand how the state and the user inte
 
 #### 👉 TASK 2 - Fix the App.js component
 
-You fill find **comments inside the module** to help you along, but broadly, the steps are:
+You will find **comments inside the module** to help you along, but broadly, the steps are:
 
 1. Import the reducer hook from React
 2. Create an object that serves as initial state
@@ -69,7 +69,7 @@ Some steps can be done in parallel: you can build a single case inside the reduc
 
 #### 👉 TASK 3 - Fix the QuoteForm.js component
 
-You fill find **comments inside the module** to help you along, but broadly, the steps are:
+You will find **comments inside the module** to help you along, but broadly, the steps are:
 
 1. Import the reducer hook from React
 2. Create an object that serves as initial state
